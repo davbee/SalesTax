@@ -1,0 +1,1 @@
+pyuic5 -x SalesTax.ui -o UI_SalesTax.py
